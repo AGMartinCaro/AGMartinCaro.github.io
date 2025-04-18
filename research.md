@@ -23,8 +23,9 @@ My current interests include:
 ###  Primordial Black Holes from domain walls and cosmic strings
 
 > *Can PBHs have been formed from the self intersection of domain wall networks during the Early Universe evolution?*
+In this ongoing project, I explore how
 
-In this ongoing project, I explore how 
+
 ---
 
 ###  Dynamics of topological solitons and effective models
