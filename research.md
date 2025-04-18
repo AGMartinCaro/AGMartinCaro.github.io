@@ -38,8 +38,8 @@ In this ongoing project, I explore how
 
 ### 🔄 Skyrmions as models of nuclei
 
-
-In collaboration with: [Dr. Renormaliz A. Flow](https://example.com)
+Look at this crepe:
+![Crepe](/assets/img/crepe.jpg)
 
 ---
 
