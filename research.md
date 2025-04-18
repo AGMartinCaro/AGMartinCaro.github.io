@@ -2,6 +2,7 @@
 layout: page
 title: Research
 subtitle: Current and past research interests
+cover-img: /assets/img/path.jpg
 ---
 
 ## Research Interests
