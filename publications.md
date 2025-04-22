@@ -1,10 +1,16 @@
+---
+layout: page
+title: Publications
+subtitle: Publication list 
+cover-img: /assets/img/path.jpg
+---
 _Last updated: 2025-04-22_
 
 ### 🧠 Research Topics
 
 <span style="font-size:110%;">Theory-HEP</span> <span style="font-size:110%;">Theory-Nucl</span> <span style="font-size:110%;">Gravitation and Cosmology</span> <span style="font-size:90%;">Phenomenology-HEP</span> <span style="font-size:80%;">Math and Math Physics</span> <span style="font-size:70%;">Quantum Physics</span> <span style="font-size:60%;">Astrophysics</span> 
 
-![Word Cloud](wordcloud.png)
+![Word Cloud](/assets/img/wordcloud.png)
 
 ## 2025 (4 publications)
 
