@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 subtitle: Publication list 
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/hand_fire.jpg
 ---
 _Last updated: 2025-04-22_
 
